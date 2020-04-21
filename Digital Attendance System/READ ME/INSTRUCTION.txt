@@ -1,0 +1,5 @@
+videotoimg  ; to make image sequence from live video
+resizeImages.py
+
+tester.py ---> yml file
+videoTester.py  ---> predicting
